@@ -12,12 +12,12 @@
 **Bước 1: Gán lại Style chuẩn bằng phím tắt**
 
 * Click vào từng dòng và bấm tổ hợp phím tương ứng:
-1. 1. Thông tin chung hội nghị $\rightarrow$ ** Ctrl + Alt + 1** (H1)
-2. 1.1. Tên hội nghị  $\rightarrow$ ** Ctrl + Alt + 2** (H2)
-3. 1.2. Thời gian & địa điểm $\rightarrow$ **`Ctrl + Alt + 2** (H2)
+1.  1. Thông tin chung hội nghị $\rightarrow$ ** Ctrl + Alt + 1** (H1)
+2.  1. 1. Tên hội nghị  $\rightarrow$ ** Ctrl + Alt + 2** (H2)
+3. 1. 2. Thời gian & địa điểm $\rightarrow$ **`Ctrl + Alt + 2** (H2)
 4. 2. Cơ cấu ban tổ chức $\rightarrow$ **Ctrl + Alt + 1** (H1)
-5. 2.1. Ban Nội dung $\rightarrow$ **Ctrl + Alt + 2** (H2)
-6. 2.1.1. Tiểu ban Kỹ thuật $\rightarrow$ **Ctrl + Alt + 3** (H3)
+5. 2. 1. Ban Nội dung $\rightarrow$ **Ctrl + Alt + 2** (H2)
+6. 2. 1. 1. Tiểu ban Kỹ thuật $\rightarrow$ **Ctrl + Alt + 3** (H3)
 7. 3. Lịch trình sự kiện $\rightarrow$ **Ctrl + Alt + 1** (H1)
 
 
